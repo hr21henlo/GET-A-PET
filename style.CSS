@@ -1,0 +1,157 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    background-color: beige;
+}
+
+#logo{
+    display: flex;
+    align-items: center;
+
+    margin-right: auto;
+    padding-left: 60px;
+
+    font-family: Roboto;
+    font-weight: 900;
+    font-size: 1.8em;
+    text-transform: capitalize;
+}
+
+.pet{
+    color:#19587B;
+    margin-left: 8px;
+}
+
+#info{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 40px;
+
+    padding-right: 20px;
+
+    font-family:Roboto;
+    font-weight: 100;
+    font-size: 1em;
+    text-transform: capitalize;
+}
+
+          .info1,.info2,.info3,.info4{
+           display: flex;
+           justify-content: flex-end;
+           width: 100px;
+           transition:all 100ms linear;
+          }
+       
+          .info1:hover,.info2:hover,.info3:hover,.info4:hover{
+           font-size: 20px;
+           font-weight: 900;
+           color: #19587B;
+          }
+
+
+            
+
+p{
+    width: 600px;
+    height: 580px;
+
+    text-align: right;
+    margin-top: 50px;
+    margin-left: 850px;
+    font-size: 6em;
+    text-transform: uppercase;
+    /*background-color: yellow;*/
+    font-family:Roboto ;
+    font-weight: 900;
+
+    position: relative;
+
+    line-height: 80px;
+    word-spacing: 20px;
+
+    
+}
+
+#login{
+    position: absolute;
+    right: 0px;
+    bottom: 250px;
+    
+    color: white;
+    background-color: #232D0A;
+
+    width: 170px;
+    height: 40px;
+    border-radius: 10px;
+    font-family:Roboto;
+    font-weight: 400;
+
+    font-size: 0.22em;
+
+    transition: all 0.1s linear ;
+
+}
+#login:hover{
+    width: 200px;
+    background-color:black;
+    color: grey;
+
+}
+
+#seek{
+    position: relative;
+    top: 100px;
+   
+    color: white;
+    background-color:#528321;
+    border-color: #528321;
+
+    width: 280px;
+    height: 60px;
+    border-radius: 40px;
+    font-family:Roboto;
+    font-weight: 900;
+    font-size: 0.35em;
+
+    word-spacing: 5px;
+
+    transition: all 0.5s linear ;
+}
+
+
+#seek:hover{
+    width: 350px;
+    background-color:beige;
+    color: grey;
+}
+
+#tommy{
+    width: 500px;
+    height: 500px;
+
+    position: absolute;
+    top: 120px;
+    left: 200px;
+
+    border-radius: 50%;
+    background-color: #38431E;
+
+    overflow: hidden;
+}
+
+
+#tommy #dog{
+    animation: okra-down 3s ease-in-out infinite;
+   
+}
+
+
+
+@keyframes okra-down{
+     from { transform: translateY(100%); }
+     to   { transform: translateY(-5%); }
+}
