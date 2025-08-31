@@ -1,4 +1,12 @@
 # GET-A-PET
-This is my first ever attempt at a website(welll...more lika a frontpage, not a fully working site yet.) .  ACtually,it's not even the first, i've made 2 others before, but never posted them because I was still figuring out how to use github.
+This is my very first attempt at creating a website—or more accurately, a front
+page prototype rather than a fully functional site just yet. Technically, it’s
+not my first-ever project; I’ve built two earlier versions while I was still
+exploring and learning how to use GitHub, but I never published them.
 
-The project is called" GET A PET", amd it's built purely on HTML & CSS . With lots of help from YT tutorials and ...( The design part was actually done by my friend, who's a graphic designer.)
+The project is called “GET A PET” 🐾, and it’s built entirely with HTML & CSS.
+I leaned heavily on YouTube tutorials for guidance, and the design elements
+were brought to life with the help of a friend who’s a graphic designer.
+
+This project is a small step, but it represents the beginning of my web
+development journey. 🚀
