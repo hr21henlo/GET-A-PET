@@ -7,6 +7,3 @@ exploring and learning how to use GitHub, but I never published them.
 The project is called “GET A PET” 🐾, and it’s built entirely with HTML & CSS.
 I leaned heavily on YouTube tutorials for guidance, and the design elements
 were brought to life with the help of a friend who’s a graphic designer.
-
-This project is a small step, but it represents the beginning of my web
-development journey. 🚀
